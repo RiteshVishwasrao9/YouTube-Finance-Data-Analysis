@@ -1,0 +1,6 @@
+selenium 
+pandas 
+matplotlib 
+seaborn
+ipykernel
+beautifulsoup4
